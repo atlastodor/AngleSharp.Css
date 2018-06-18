@@ -170,3 +170,8 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+/src/.vs/AngleSharp.Css/v15/Server/sqlite3/storage.ide-wal
+/src/.vs/AngleSharp.Css/v15/Server/sqlite3/storage.ide-shm
+/src/.vs/AngleSharp.Css/v15/Server/sqlite3/storage.ide
+/src/.vs/AngleSharp.Css/v15/Server/sqlite3/db.lock
+/src/.vs/AngleSharp.Css/DesignTimeBuild/.dtbcache
